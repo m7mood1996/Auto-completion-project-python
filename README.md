@@ -92,7 +92,7 @@ Finished with your project?
 
 To run locally, in the project dirictory do the following in the terminal/cmd:
 ```
-python manage.py runserver
+python main.py
 ```
 
 [Back To The Top](#Auto-completion-project-python)
